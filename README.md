@@ -41,8 +41,10 @@ CORREÇÃO: Adicionar 'portal',
 # COMO RODAR O PROJETO LOCALMENTE
 
 1. Abra o cmd do VS Code (ctrl + aspas)
-2. Execute o comando: python manage.py runserver
-3. Acesse o servidor no navegador (ctrl + clique no endereço http que aparecer)
+2. Caso o Django não esteja instalado execute o comando pip install django
+3. Caso o Pillow não esteja instalado execute o comando pip install Pillow
+4. Execute o comando: python manage.py runserver
+5. Acesse o servidor no navegador (ctrl + clique no endereço http que aparecer)
 
 OBS.: O super usuário criado é root e a senha é 12345.
 
