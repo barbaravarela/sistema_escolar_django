@@ -41,8 +41,8 @@ CORREÇÃO: Adicionar 'portal',
 # COMO RODAR O PROJETO LOCALMENTE
 
 1. Abra o cmd do VS Code (ctrl + aspas)
-2. Caso o Django não esteja instalado execute o comando pip install django
-3. Caso o Pillow não esteja instalado execute o comando pip install Pillow
+2. Caso o Django não esteja instalado execute o comando: pip install django
+3. Caso o Pillow não esteja instalado execute o comando: pip install Pillow
 4. Execute o comando: python manage.py runserver
 5. Acesse o servidor no navegador (ctrl + clique no endereço http que aparecer)
 
